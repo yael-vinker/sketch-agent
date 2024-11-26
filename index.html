@@ -264,67 +264,138 @@
   </div>
 </section>
 
-<!--Gallery-->
+
+<!--Variability-->
 <section class="section">
-  <div class="container is-widescreen" id="gallery">
-    
+  <div class="container " id="gallery">
     <div class="section-title has-text-centered is-centered">
-      <h2 class="title is-3">Gallery</h2><br>
+    <div class="content has-text-justified">
+      Leveraging the inherent versatility of LLMs, our method generates highly diverse sketches. Below, we showcase 30 sketches illustrating a wide range of poses, structures, and qualities across various concepts.
     </div>
-
-<div id="results-carousel" class="carousel results-carousel">
-  <div class="columns is-centered has-text-centered is-variable is-8">
-    <div class="comparisons_gallery">
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/images/teaser/penguin.gif" alt="penguin"/>
-       <h6 class="caption">Input</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/comparisons/zs_results/penguin_scaled1.gif" alt="penguin"/>
-       <h6 class="caption">ZeroScope</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/comparisons/vc_results/penguin_scaled1.gif" alt="penguin"/>
-       <h6 class="caption">VideoCrafter</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/comparisons/ms_results/penguin_scaled1.gif" alt="penguin"/>
-       <h6 class="caption">ModelScope</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/teaser/penguin.gif" alt="penguin"/>
-       <h6 class="caption">Ours</h6>
-      </div>
-    </div>
+    <div id="results-carousel" class="carousel results-carousel">
+        <img id="sailboat" style="width: 90%; margin-top: 20px; margin-left: 30px;" src="static/images/variability/rabbit.svg"/>
+        <img id="rabbit" style="width: 90%; margin-top: 20px; margin-left: 30px;" src="static/images/variability/sailboat.svg"/>
+        <img id="rabbit" style="width: 90%; margin-top: 20px; margin-left: 30px;" src="static/images/variability/butterfly.svg"/>
+        <img id="rabbit" style="width: 90%; margin-top: 20px; margin-left: 30px;" src="static/images/variability/fish.svg"/>
+        <img id="rabbit" style="width: 90%; margin-top: 20px; margin-left: 30px;" src="static/images/variability/coffee_mug.svg"/>
+        <img id="rabbit" style="width: 90%; margin-top: 20px; margin-left: 30px;" src="static/images/variability/glasses.svg"/>
+        <img id="rabbit" style="width: 90%; margin-top: 20px; margin-left: 30px;" src="static/images/variability/duck.svg"/>  
+  </div>
 </div>
+</div>
+</section>
 
-<div class="columns is-centered has-text-centered is-variable is-8">
-    <div class="comparisons_gallery">
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/images/teaser/fish_input.gif" alt="fish"/>
-       <h6 class="caption">Input</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/comparisons/zs_results/fish_scaled1.gif" alt="fish"/>
-       <h6 class="caption">ZeroScope</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/comparisons/vc_results/fish_scaled1.gif" alt="fish"/>
-       <h6 class="caption">VideoCrafter</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/comparisons/ms_results/fish_scaled1.gif" alt="fish"/>
-       <h6 class="caption">ModelScope</h6>
-      </div>
-      <div class="captioned_video">
-       <img class="comp_src_img" src="static/videos/teaser/fish.gif" alt="fish"/>
-       <h6 class="caption">Ours</h6>
+<section class="section hero is-light">
+  <div class="container " id="gallery">
+  <div class="section is-centered has-text-centered">
+    We demonstrate the potential of our system for facilitating interactive human-agent collaboration, resulting in semantically meaningful and recognizable sketches.<br>
+    We design a web-based collaborative sketching environment where users and SketchAgent take turns drawing on a shared canvas to create a recognizable sketch from a given textual concept.
+    Participants sketched concepts in two modes: <b>solo</b>, where users drew independently, and <b>collab</b>, where users and SketchAgent collaborated, adding one stroke at a time until either was satisfied with the drawing.
+  </div>
+  <div id="results-carousel" class="carousel results-carousel">
+    <div class="columns is-centered has-text-centered is-variable is-8">
+      <div class="comparisons_gallery">
+        <div class="captioned_video">
+         <img class="comp_src_img" src="static/images/collab/user/coffee_mug_final_sketch.svg" alt="penguin"/>
+         <h6 class="caption">User-only</h6>
+        </div>
+        <div class="captioned_video">
+         <img class="comp_src_img" src="static/images/collab/agent/output_pink_coffee_mug.svg" alt="penguin"/>
+         <h6 class="caption">Agent-only</h6>
+        </div>
+        <div class="captioned_video">
+         <img class="comp_src_img" src="static/images/collab/collab/coffee_mug_final_sketch.svg" alt="penguin"/>
+         <h6 class="caption">User-Agent collaboration</h6>
+        </div>
       </div>
     </div>
-</div>
+    <div class="columns is-centered has-text-centered is-variable is-8">
+      <div class="comparisons_gallery">
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/user/glasses_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/agent/output_pink_glasses.svg" alt="penguin"/>
+          <h6 class="caption">Agent-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/collab/glasses_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-Agent collaboration</h6>
+        </div>
+      </div>
+    </div>
 
-</div>
+    <div class="columns is-centered has-text-centered is-variable is-8">
+      <div class="comparisons_gallery">
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/user/duck_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/agent/output_pink_duck.svg" alt="penguin"/>
+          <h6 class="caption">Agent-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/collab/duck_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-Agent collaboration</h6>
+        </div>
+      </div>
+    </div>
 
+    <div class="columns is-centered has-text-centered is-variable is-8">
+      <div class="comparisons_gallery">
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/user/car_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/agent/output_pink_car.svg" alt="penguin"/>
+          <h6 class="caption">Agent-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/collab/car_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-Agent collaboration</h6>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered is-variable is-8">
+      <div class="comparisons_gallery">
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/user/fish_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/agent/output_pink_fish.svg" alt="penguin"/>
+          <h6 class="caption">Agent-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/collab/fish_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-Agent collaboration</h6>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered is-variable is-8">
+      <div class="comparisons_gallery">
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/user/sailboat_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/agent/output_pink_sailboat.svg" alt="penguin"/>
+          <h6 class="caption">Agent-only</h6>
+        </div>
+        <div class="captioned_video">
+          <img class="comp_src_img" src="static/images/collab/collab/sailboat_final_sketch.svg" alt="penguin"/>
+          <h6 class="caption">User-Agent collaboration</h6>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
   
 
 <section class="section" id="BibTeX">
