@@ -1,0 +1,56 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+<g id="s1" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 246.00 66.00 C 280.42959001782515 0.47058823529409466 420.69696969696975 84.22816399286984 366.0000000000001 90.0 "/>
+<path d="M 366.00 90.00 C 331.5704099821747 155.52941176470583 191.30303030303014 71.77183600713008 245.99999999999997 65.99999999999997 "/>
+</g>
+<g id="s2" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 186.00 138.00 C 466.0000000000001 121.99999999999994 466.00000000000006 121.99999999999997 426.0000000000001 234.0 "/>
+<path d="M 426.00 234.00 C 146.00000000000003 249.9999999999999 146.00000000000003 249.99999999999986 185.99999999999994 138.0 "/>
+</g>
+<g id="s3" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 186.00 246.00 C 254.8591800356503 102.17647058823542 535.393939393939 242.4438502673795 425.9999999999998 366.00000000000006 "/>
+<path d="M 426.00 366.00 C 357.14081996434913 509.8235294117644 76.60606060606045 369.5561497326204 186.0 245.9999999999999 "/>
+</g>
+<g id="s4" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 426.00 258.00 C 566.0 242.0 565.9999999999998 242.0 546.0 354.0 "/>
+<path d="M 546.00 354.00 C 406.0 370.0 406.0 369.9999999999999 425.9999999999998 257.9999999999999 "/>
+</g>
+<g id="s5" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 186.00 378.00 C 466.0000000000001 361.99999999999966 466.00000000000006 361.9999999999998 426.0000000000001 474.0 "/>
+<path d="M 426.00 474.00 C 146.00000000000003 490.0000000000001 146.00000000000003 489.9999999999999 185.99999999999994 378.00000000000006 "/>
+</g>
+<g id="s6" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 246.00 546.00 C 280.42959001782515 480.4705882352938 420.69696969696975 564.2281639928697 366.0000000000001 570.0 "/>
+<path d="M 366.00 570.00 C 331.5704099821747 635.5294117647053 191.30303030303014 551.7718360071303 245.99999999999997 546.0 "/>
+</g>
+<g id="s7" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 306 114 L 306 138 "/>
+</g>
+<g id="s8" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 306 234 L 306 246 "/>
+</g>
+<g id="s9" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 426.00 306.00 C 426.00000000000045 306.0000000000006 425.99999999999926 305.99999999999955 426.0000000000001 306.0 "/>
+</g>
+<g id="s10" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 306 426 L 306 378 "/>
+</g>
+<g id="s11" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 306 474 L 306 522 "/>
+</g>
+<g id="s12" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 294.00 150.00 Q 336.0000000000003 138.00000000000009 306.0 173.99999999999994 "/>
+</g>
+<g id="s13" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 294.00 258.00 Q 336.0000000000003 246.00000000000017 306.0 282.0 "/>
+</g>
+<g id="s14" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 438.00 294.00 Q 426.0000000000001 336.0000000000003 462.0000000000001 306.0 "/>
+</g>
+<g id="s15" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 294.00 390.00 Q 336.0000000000003 378.0000000000002 306.0 413.9999999999999 "/>
+</g>
+<g id="s16" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 294.00 534.00 Q 336.0000000000003 522.0000000000001 306.0 557.9999999999998 "/>
+</g>
+</svg>
