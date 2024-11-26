@@ -1,0 +1,33 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+<g id="s1" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 184.29 246.86 C 226.19047619047615 99.23809523809513 519.5238095238093 225.90476190476164 424.28571428571433 306.85714285714283 "/>
+<path d="M 424.29 306.86 C 385.809523809524 452.7619047619047 92.47619047619024 326.095238095238 187.71428571428572 245.14285714285728 "/>
+</g>
+<g id="s2" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 121.71 188.38 C 282.4285714285715 -67.83597883597892 282.42857142857133 439.8359788359789 121.71428571428567 183.61904761904745 "/>
+</g>
+<g id="s3" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 187.03 246.51 C 113.88571428571436 309.94285714285706 113.88571428571409 441.94285714285667 187.02857142857144 450.5142857142857 "/>
+</g>
+<g id="s4" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 126.34 125.14 C 16.62857142857139 -60.57142857142877 16.628571428571316 279.4285714285714 126.34285714285718 185.14285714285717 "/>
+</g>
+<g id="s5" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 245.66 125.14 C 355.3714285714286 -60.57142857142877 355.37142857142834 279.4285714285714 245.6571428571428 185.14285714285717 "/>
+</g>
+<g id="s6" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 222 366 L 222 486 "/>
+</g>
+<g id="s7" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 306 366 L 306 486 "/>
+</g>
+<g id="s8" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 366 366 L 366 486 "/>
+</g>
+<g id="s9" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 426 306 L 426 426 "/>
+</g>
+<g id="s10" stroke="black" stroke-width="7.0" fill="none" stroke-linecap="round">
+<path d="M 426.00 306.00 C 456.894830659537 370.71663074999356 521.8306055204444 288.1905413783453 462.0 282.0000000000001 "/>
+</g>
+</svg>
