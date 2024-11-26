@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 967.99 335.24">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 25.02px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #231f20;
+        stroke-width: .75px;
+      }
+
+      .cls-6 {
+        fill: #404041;
+        font-size: 22.31px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-family: STIXTwoMath-Regular, 'STIX Two Math';
+      }
+
+      .cls-7 {
+        font-size: 20.59px;
+      }
+
+      .cls-7, .cls-9 {
+        fill: #231f20;
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 19.06px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 18px;
+      }
+
+      .cls-14 {
+        fill: #faaf40;
+      }
+
+      .cls-9 {
+        font-family: CMUSerif-Roman, 'CMU Serif';
+        font-size: 32.6px;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        opacity: .64;
+        stroke: #404041;
+        stroke-width: 4px;
+      }
+
+      .cls-16 {
+        fill: #e6e7e8;
+      }
+
+      .cls-17 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        fill: #f6921e;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-7"><tspan x="113.13" y="209.35">3</tspan><tspan x="113.13" y="234.06">2</tspan><tspan x="113.13" y="258.77">1</tspan></text>
+    <rect class="cls-5" x="128.74" y="73.19" width="186.8" height="186.8"/>
+    <text class="cls-7"><tspan x="128.89" y="277.96" xml:space="preserve">1  2  3</tspan></text>
+    <text class="cls-6" transform="translate(193.74 272.64)"><tspan x="0" y="0">. . . . . . . .</tspan></text>
+    <text class="cls-7"><tspan x="289.72" y="277.95">50</tspan></text>
+    <text class="cls-7"><tspan x="106.48" y="90.75">50</tspan></text>
+    <text class="cls-6" transform="translate(117.99 178.49) rotate(-90)"><tspan x="0" y="0">. . . . . . .</tspan></text>
+    <rect class="cls-3" x="107.08" y="73.19" width="208.46" height="208.46"/>
+  </g>
+  <text class="cls-9" transform="translate(165.95 61.02)"><tspan x="0" y="0">Ca</tspan><tspan class="cls-17" x="39.83" y="0">nv</tspan><tspan x="73.27" y="0">as</tspan></text>
+  <rect class="cls-16" x="403.35" y="40.73" width="329.95" height="258.33" rx="12.44" ry="12.44"/>
+  <text class="cls-13" transform="translate(412.54 69.61)"><tspan x="0" y="0">&lt;st</tspan><tspan class="cls-19" x="23.81" y="0">r</tspan><tspan class="cls-15" x="29.52" y="0">okes&gt;</tspan><tspan x="0" y="21.6" xml:space="preserve"> &lt;s1&gt;</tspan><tspan x="0" y="43.2" xml:space="preserve">   &lt;poi</tspan><tspan class="cls-18" x="46.51" y="43.2">n</tspan><tspan x="56.43" y="43.2" xml:space="preserve">ts&gt;x10y25,  x11y28  .....   &lt;/poi</tspan><tspan class="cls-18" x="278.04" y="43.2">n</tspan><tspan class="cls-12" x="287.96" y="43.2">ts&gt; </tspan><tspan x="0" y="64.8" xml:space="preserve">   &lt;t_</tspan><tspan class="cls-18" x="37.13" y="64.8">v</tspan><tspan x="45.72" y="64.8" xml:space="preserve">alues&gt;0,  0.3 ....  &lt;/t_</tspan><tspan class="cls-18" x="196.43" y="64.8">v</tspan><tspan x="205.01" y="64.8">alues&gt;</tspan><tspan x="0" y="86.4" xml:space="preserve">   &lt;id&gt;dorsal fin&lt;/id&gt;</tspan><tspan x="0" y="108" xml:space="preserve"> &lt;/s1&gt;</tspan><tspan x="0" y="129.6" xml:space="preserve"> &lt;s2&gt;</tspan><tspan x="0" y="151.2" xml:space="preserve">   &lt;poi</tspan><tspan class="cls-18" x="46.51" y="151.2">n</tspan><tspan x="56.43" y="151.2">ts&gt;...</tspan><tspan x="0" y="172.8" xml:space="preserve">   &lt;t_</tspan><tspan class="cls-18" x="37.13" y="172.8">v</tspan><tspan x="45.72" y="172.8">alues&gt;...</tspan><tspan x="0" y="194.4" xml:space="preserve"> ...</tspan><tspan x="0" y="216">&lt;st</tspan><tspan class="cls-19" x="23.81" y="216">r</tspan><tspan class="cls-15" x="29.52" y="216">okes&gt;</tspan></text>
+  <path class="cls-4" d="M169.33,166.84c-3.11-56.74,47.46-69.6,50.97-15.62"/>
+  <path class="cls-14" d="M169.33,170.59c1.96,0,3.84-1.72,3.75-3.75s-1.65-3.75-3.75-3.75c-1.96,0-3.84,1.72-3.75,3.75s1.65,3.75,3.75,3.75h0Z"/>
+  <path class="cls-14" d="M186.57,123.23c1.96,0,3.84-1.72,3.75-3.75s-1.65-3.75-3.75-3.75c-1.96,0-3.84,1.72-3.75,3.75s1.65,3.75,3.75,3.75h0Z"/>
+  <path class="cls-14" d="M205.39,122.48c1.96,0,3.84-1.72,3.75-3.75s-1.65-3.75-3.75-3.75c-1.96,0-3.84,1.72-3.75,3.75s1.65,3.75,3.75,3.75h0Z"/>
+  <path class="cls-14" d="M171.91,145.58c1.96,0,3.84-1.72,3.75-3.75s-1.65-3.75-3.75-3.75c-1.96,0-3.84,1.72-3.75,3.75s1.65,3.75,3.75,3.75h0Z"/>
+  <path class="cls-14" d="M216.4,133.63c1.96,0,3.84-1.72,3.75-3.75s-1.65-3.75-3.75-3.75c-1.96,0-3.84,1.72-3.75,3.75s1.65,3.75,3.75,3.75h0Z"/>
+  <path class="cls-14" d="M220.3,154.97c1.96,0,3.84-1.72,3.75-3.75s-1.65-3.75-3.75-3.75c-1.96,0-3.84,1.72-3.75,3.75s1.65,3.75,3.75,3.75h0Z"/>
+  <text class="cls-8" transform="translate(222.14 131.35)"><tspan class="cls-2" x="0" y="0">(x</tspan><tspan class="cls-10" x="20.92" y="0">j</tspan><tspan class="cls-2" x="25.93" y="0">,y</tspan><tspan class="cls-11" x="44.15" y="0">j</tspan><tspan class="cls-1" x="49.16" y="0">), t</tspan></text>
+</svg>
