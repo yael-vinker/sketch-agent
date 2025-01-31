@@ -56,7 +56,7 @@
           <div class="column has-text-centered">
             <div class="publication-links">
               <span class="link-block">
-                <a href="https://arxiv.org/abs/2411.17673" target="_blank"
+                <a href="" target="_blank"
                   class="external-link button is-normal is-rounded">
                   <span class="icon">
                     <i class="ai ai-arxiv"></i>
@@ -89,7 +89,7 @@
             </div>
           </div>
 
-          <div class="container is-max-desktop">
+          <!-- <div class="container is-max-desktop">
     
             <div class="item">
               <p style="margin-bottom: 30px">
@@ -98,7 +98,7 @@
             </video>
             
             </p>
-          </div>
+          </div> -->
       </div>
         </div>
         
@@ -110,23 +110,88 @@
 
 <!-- Abstract. -->
 <!-- <section class="section"> -->
-  <section class="section hero is-light">
+  <section class="section">
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
-      <h2 class="title is-3">Abstract</h2>
+      <h2 class="title is-3">What is SketchAgent?</h2>
         <div class="content has-text-justified">
         <p>
-          Sketching serves as a versatile tool for externalizing ideas, enabling rapid exploration and visual communication that spans various disciplines. While artificial systems have driven substantial advances in content creation and human-computer interaction, capturing the dynamic and abstract nature of human sketching remains challenging. 
-          In this work, we introduce SketchAgent, a language-driven, sequential sketch generation method that enables users to create, modify, and refine sketches through dynamic, conversational interactions.
-          Our approach requires no training or fine-tuning. Instead, we leverage the sequential nature and rich prior knowledge of off-the-shelf multimodal large language models (LLMs). We present an intuitive sketching language, introduced to the model through in-context examples, enabling it to ``draw'' using string-based actions. These are processed into vector graphics and then rendered to create a sketch on a pixel canvas, which can be accessed again for further tasks.
-          By drawing stroke by stroke, our agent captures the evolving, dynamic qualities intrinsic to sketching. We demonstrate that SketchAgent can generate sketches from diverse prompts, engage in dialogue-driven drawing, and collaborate meaningfully with human users.
+          SketchAgent is a drawing system that leverages LLMs to generate sequential sketches. &#x1F58C;&#xFE0F; <br>
+          Given a text prompt, it produces a sequence of strokes that are rendered to the canvas, transforming language into visual concepts! &#x1F3A8;
         </p>
         </div>
+        <div class="item">
+          <p style="margin-bottom: 30px">
+        <video poster="" id="tree" autoplay controls muted loop height="100%">
+          <source src="static/apps/SketchAgent_apps1.mov" type="video/mp4">
+        </video>
+        </p>
+         </div>
+
+        
+
     </div>
     </div>
   </div>
 </section>
+
+<section class="section  hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+    <div class="column is-four-fifths">
+   
+
+         <h2 class="title is-3">What Can You Do with It?</h2>
+         
+
+         <div class="content has-text-justified">
+          
+          <p>
+            <h3 class="title is-4">🖌️ Interactive Sketching</h3>
+            Through our interface, users can <strong style="color: #eb4e75;">collaborate</strong> with SketchAgent to draw together, stroke by stroke, engaging in a fun and creative drawing experience. <strong> <a href="https://github.com/yael-vinker/SketchAgent" class="demo-link">Check out our demo!</a></strong>
+          </p>
+          </div>
+          <div class="item">
+            <p style="margin-bottom: 30px">
+          <video poster="" id="tree" autoplay controls muted loop height="100%">
+            <source src="static/apps/sketchagent_app2.mov" type="video/mp4">
+          </video>
+          </p>
+           </div>
+
+           <div class="content has-text-justified">
+            <p>
+              <h3 class="title is-4">🖌️ Chat-Based Sketch Editing</h3>
+              Users can also iteratively edit their sketches through a chat dialogue!
+            </p>
+            </div>
+            <div class="item">
+              <p style="margin-bottom: 30px">
+            <video poster="" id="tree" autoplay controls muted loop height="100%">
+              <source src="static/apps/SketchAgent_apps3.mov" type="video/mp4">
+            </video>
+            </p>
+             </div>
+
+             <div class="content has-text-justified">
+              <p>
+                Additionally, the strong prior of LLMs can be leveraged to perform various types of sketch editing, such as animating sketches with CSS! 
+
+              </p>
+              </div>
+              <div class="item">
+                <p style="margin-bottom: 30px">
+              <video poster="" id="tree" autoplay controls muted loop height="100%">
+                <source src="static/apps/SketchAgent_apps4.mov" type="video/mp4">
+              </video>
+              </p>
+               </div>
+    </div>
+    </div>
+  </div>
+</section>
+
 
 <!-- How does it work? -->
 <section class="section">
@@ -445,15 +510,15 @@
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
       <pre><code>
-        @misc{vinker2024sketchagent,
-      title={SketchAgent: Language-Driven Sequential Sketch Generation}, 
-      author={Yael Vinker and Tamar Rott Shaham and Kristine Zheng and Alex Zhao and Judith E Fan and Antonio Torralba},
-      year={2024},
-      eprint={2411.17673},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.17673}, 
-}
+        @misc{vinker2024sketchagentlanguagedrivensequentialsketch,
+          title={SketchAgent: Language-Driven Sequential Sketch Generation}, 
+          author={Yael Vinker and Tamar Rott Shaham and Kristine Zheng and Alex Zhao and Judith E Fan and Antonio Torralba},
+          year={2024},
+          eprint={2411.17673},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV},
+          url={https://arxiv.org/abs/2411.17673}, 
+    }
       </code></pre>
     </div>
 </section>
